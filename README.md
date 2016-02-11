@@ -24,7 +24,7 @@ You also need to point to the fork of the `way/generators` repo:
 "repositories": [
     {
         "type": "git",
-        "url": "git@github.com:jamisonvalenta/Laravel-4-Generators.git"
+        "url": "git@github.com:ljlerit/migrations-generator.git"
     }
 ]
 ```
